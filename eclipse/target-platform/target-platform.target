@@ -20,13 +20,13 @@
             <repository location="http://download.eclipse.org/eclipse/updates/4.8"/>
         </location>
 	    <location includeAllPlatforms="false" includeConfigurePhase="true" includeMode="planner" includeSource="true" type="InstallableUnit">
-		    <unit id="Project-Reactor.feature.group" version="3.2.0"/>
-		    <unit id="Project-Reactor.source.feature.group" version="3.2.0"/>
+		    <unit id="Project-Reactor.feature.group" version="3.2.8"/>
+		    <unit id="Project-Reactor.source.feature.group" version="3.2.8"/>
 		    <unit id="Retrofit.feature.group" version="2.5.0"/>
 		    <unit id="Retrofit.source.feature.group" version="2.5.0"/>
 		    <unit id="jcommander.feature.group" version="1.72.0"/>
 		    <unit id="jcommander.source.feature.group" version="1.72.0"/>
-		    <repository location="https://dl.bintray.com/vogellacompany/OpenReq-Eclipse/Eclipse-Plugin-Deps/"/>
+		    <repository location="https://dl.bintray.com/vogellacompany/OpenReq-Eclipse/"/>
 	    </location>
 	    <location includeAllPlatforms="false" includeConfigurePhase="true" includeMode="planner" includeSource="true" type="InstallableUnit">
 		    <unit id="ch.qos.logback.classic" version="1.1.2.v20171220-1825"/>
